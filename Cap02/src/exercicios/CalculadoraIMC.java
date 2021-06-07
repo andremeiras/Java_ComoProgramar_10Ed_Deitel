@@ -34,5 +34,5 @@ public class CalculadoraIMC {
 		
 		if (imc >= 30)
 			System.out.println("Obeso");
-	}	
+	}
 }
