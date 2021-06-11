@@ -44,3 +44,9 @@ public String getName() {
     return name;
 }
 ```
+
+Uma classe main é também chamada de classe condutora, pois é nela que o programa inicia. Após ser chamada, outras classes são também chamadas, mas caso o projeto não tenha uma classe main é disparado um erro informando que não há um método principal:
+
+´´´
+Main method not found in class Account
+´´´
